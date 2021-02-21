@@ -8,5 +8,10 @@ reseau de neuronnes
 
 https://openclassrooms.com/fr/courses/2035736-mettez-en-place-lintegration-et-la-livraison-continues-avec-la-demarche-devops/6182691-quest-ce-que-lintegration-continue
 
+<<<<<<< HEAD
 
 kgldfg
+=======
+je suis dans la branchedeuxdd
+
+>>>>>>> 7421114 (branchedeux)
