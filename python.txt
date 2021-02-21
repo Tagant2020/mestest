@@ -10,7 +10,7 @@ https://openclassrooms.com/fr/courses/2035736-mettez-en-place-lintegration-et-la
 
 
 <<<<<<< HEAD
-je test les commits
+je test les commits.
 =======
 fait le
 >>>>>>> a7cfec5 (test)
